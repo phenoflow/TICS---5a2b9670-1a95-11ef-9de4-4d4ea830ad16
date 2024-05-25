@@ -1,0 +1,27 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/tics-unspecified---primary.py
+inputModule3:
+  class: File
+  path: python/tics---primary.py
+inputModule4:
+  class: File
+  path: python/tics-[x]tic---primary.py
+inputModule5:
+  class: File
+  path: python/tic---primary.py
+inputModule6:
+  class: File
+  path: python/vocal-tics---primary.py
+inputModule7:
+  class: File
+  path: python/tics-tourette---primary.py
+inputModule8:
+  class: File
+  path: python/tics-motor---primary.py
+inputModule9:
+  class: File
+  path: python/output-cases.py
